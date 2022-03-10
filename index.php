@@ -2,7 +2,6 @@
 
 require "helpers/class.php";
 
-$alert_trigger = false;
 $index = new Index();
 [$history_data, $bandara_data] = $index->fetchData();
 
