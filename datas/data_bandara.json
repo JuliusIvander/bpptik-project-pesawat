@@ -1,0 +1,15 @@
+{
+    "bandara_asal": {
+            "Soekarno-Hatta (CGK)": 50000,
+            "Husein Sastranegara (BDO)": 30000,
+            "Abdul Rachman Saleh (MLG)" :40000,
+            "Juanda (SUB)" :40000
+    },
+    "bandara_tujuan": 
+        {
+            "Ngurah Rai (DPS)": 80000,
+            "Hasanuddin (UPG)": 70000,
+            "Inanwatan (INX)": 90000,
+            "Sultan Iskandarmuda (BTJ)": 70000
+        }
+}
